@@ -1,0 +1,32 @@
+{
+    "Hum Mile The Jahan": {
+        "title": "Hum Mile The Jahan",
+        "artist": "Mohit Chauhan",
+        "file_path": "file_path/Hum Mile The Jahan.mp3"
+    },
+    "Ishq Hai": {
+        "title": "Ishq Hai",
+        "artist": "Anurag Saikia",
+        "file_path": "file_path/Ishq Hai.mp3"
+    },
+    "Pyaar Aata Hai": {
+        "title": "Pyaar Aata Hai",
+        "artist": "Shreya Ghoshal",
+        "file_path": "file_path/Pyaar Aata Hai.mp3"
+    },
+    "Tere Bin": {
+        "title": "Tere Bin",
+        "artist": "Rabbi Shergill",
+        "file_path": "file_path/Tere Bin.mp3"
+    },
+    "Ve Haaniyaan": {
+        "title": "Ve Haaniyaan",
+        "artist": "Avvy Sra",
+        "file_path": "file_path/Ve Haaniyaan.mp3"
+    },
+    "Zaroor": {
+        "title": "Zaroor",
+        "artist": "Aparshakti Khurana",
+        "file_path": "file_path/Zaroor.mp3"
+    }
+}
